@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication4.cpp
+c:\users\roxana\documents\github\registrykeys\consoleapplication4\consoleapplication4.cpp(108): warning C4715: 'listare_recursiva': not all control paths return a value
+  ConsoleApplication4.vcxproj -> C:\Users\Roxana\Documents\GitHub\RegistryKeys\ConsoleApplication4\Debug\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\Roxana\Documents\GitHub\RegistryKeys\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)
